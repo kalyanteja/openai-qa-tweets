@@ -5,5 +5,6 @@
 Using the https://beta.openai.com/overview
 
 # Here's how it looks
-<img width="766" alt="Screenshot 2022-02-08 at 20 03 29" src="https://user-images.githubusercontent.com/2329950/153066942-b9cdaa7e-5b7e-4c2b-9269-cacfca300a52.png">
+![click1](https://user-images.githubusercontent.com/2329950/153068710-7fe84d8a-8d49-4d5e-8f42-2236c2edfd6d.gif)
+
 
