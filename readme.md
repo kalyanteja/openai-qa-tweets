@@ -1,4 +1,4 @@
-# A simple command line application that
+A simple command line application that
 - Generate Tweets for hashtags
 - Get Answers for any questions
 
